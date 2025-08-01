@@ -1,4 +1,21 @@
 {
   "name": "TurkishCurrencyApp",
-  "displayName": "Türk Döviz"
+  "displayName": "Türk Döviz",
+  "expo": {
+    "name": "Türk Döviz",
+    "slug": "turk-doviz",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1e40af"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
 }
